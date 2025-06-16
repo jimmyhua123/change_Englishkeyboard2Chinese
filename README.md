@@ -12,7 +12,7 @@
 ## 2. 系統需求（Prerequisites）
 
 * **Windows 10/11**，已安裝並啟用「微軟注音輸入法」。
-* **AutoHotkey v1.1**（[https://www.autohotkey.com/）。](https://www.autohotkey.com/）。)
+* **AutoHotkey v1.1**（[https://www.autohotkey.com/）。](https://www.autohotkey.com/)
 * 管理員權限非必要，但某些程式（例如 UWP App）可能需以系統權限才能攔截鍵盤事件。
 
 ## 3. 安裝（Installation）
